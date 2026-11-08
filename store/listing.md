@@ -1,5 +1,9 @@
 # Chrome Web Store submission
 
+Submitted 2026-11-08 as item `aghmjckmichlalkaaaakkcljdmilhmdj` (publisher Pay2GPT, dev@pay2gpt.com), auto-publish on approval.
+Store page once live: https://chromewebstore.google.com/detail/aghmjckmichlalkaaaakkcljdmilhmdj
+Descriptions for the other 13 languages: `store/descriptions.json`. Global screenshots are the English `*-en.png`; zh-CN has its own Chinese set.
+
 Upload `dist/pay2gpt-connect-<version>.zip` from `scripts/build.sh` (never `dist/dev`).
 
 ## Store listing
