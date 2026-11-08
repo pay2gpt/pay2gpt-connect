@@ -4,7 +4,7 @@ Upload `dist/pay2gpt-connect-<version>.zip` from `scripts/build.sh` (never `dist
 
 ## Store listing
 
-- **Name**: from `_locales` (`Pay2GPT Connect`, `Pay2GPT 一键连接`, …): no ChatGPT or OpenAI in the name or icon
+- **Name**: from `_locales` (`Pay2GPT Connect`, `Pay2GPT 一键连接`, …): no ChatGPT in the name (like GPTSubs — Get Key); the icon is the site's logo
 - **Category**: Productivity
 - **Language**: English (default), plus Chinese (Simplified), Chinese (Traditional), Russian from `_locales`
 - **Homepage**: https://pay2gpt.com/
