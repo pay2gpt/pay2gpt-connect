@@ -4,7 +4,7 @@ Upload `dist/pay2gpt-connect-<version>.zip` from `scripts/build.sh` (never `dist
 
 ## Store listing
 
-- **Name**: from `_locales` (`Pay2GPT — Connect ChatGPT`, `Pay2GPT — 一键连接 ChatGPT`, …)
+- **Name**: from `_locales` (`Pay2GPT Connect`, `Pay2GPT 一键连接`, …): no ChatGPT or OpenAI in the name or icon
 - **Category**: Productivity
 - **Language**: English (default), plus Chinese (Simplified), Chinese (Traditional), Russian from `_locales`
 - **Homepage**: https://pay2gpt.com/
@@ -28,6 +28,8 @@ Ordering in @Pay2GPTBot on Telegram? Tap "Connect on a computer" in the bot, or 
 - The Session goes only to pay2gpt.com or your clipboard. Nothing is stored, nothing is sent anywhere else.
 - Open source: https://github.com/pay2gpt/pay2gpt-connect
 
+Pay2GPT is an independent service and is not affiliated with, endorsed by or sponsored by OpenAI. ChatGPT is a trademark of OpenAI.
+
 ### 描述（中文）
 
 一键把你的 ChatGPT 账号连接到 Pay2GPT 订单。
@@ -40,6 +42,8 @@ Ordering in @Pay2GPTBot on Telegram? Tap "Connect on a computer" in the bot, or 
 - 用浏览器里已登录的 chatgpt.com，不需要密码。
 - Session 只交给 pay2gpt.com 或复制到剪贴板，不保存，也不发到其他地方。
 - 开源：https://github.com/pay2gpt/pay2gpt-connect
+
+Pay2GPT 是独立服务，与 OpenAI 无关，未获其认可或赞助。ChatGPT 是 OpenAI 的商标。
 
 ## Privacy practices tab
 

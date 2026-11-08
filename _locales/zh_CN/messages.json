@@ -1,6 +1,6 @@
 {
   "name": {
-    "message": "Pay2GPT — 一键连接 ChatGPT"
+    "message": "Pay2GPT 一键连接"
   },
   "description": {
     "message": "一键把你的 ChatGPT 账号连接到 Pay2GPT 订单。Session 只交给 pay2gpt.com 或复制到剪贴板，不保存。"

@@ -1,5 +1,7 @@
 # Pay2GPT Connect
 
+> Pay2GPT is an independent service, not affiliated with OpenAI. ChatGPT is a trademark of OpenAI.
+
 Chrome extension that connects your ChatGPT account to a [Pay2GPT](https://pay2gpt.com) order in one click.
 
 一键把你的 ChatGPT 账号连接到 Pay2GPT 订单，不用再打开链接、全选、复制、粘贴。
