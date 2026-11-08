@@ -1,0 +1,38 @@
+{
+  "name": {
+    "message": "Pay2GPT — 一鍵連接 ChatGPT"
+  },
+  "description": {
+    "message": "一鍵把你的 ChatGPT 帳號連接到 Pay2GPT 訂單。Session 只交給 pay2gpt.com 或複製到剪貼簿，不儲存。"
+  },
+  "get": {
+    "message": "取得 Session"
+  },
+  "getting": {
+    "message": "讀取中…"
+  },
+  "toBot": {
+    "message": "複製並開啟 @Pay2GPTBot"
+  },
+  "copy": {
+    "message": "複製"
+  },
+  "copied": {
+    "message": "已複製"
+  },
+  "download": {
+    "message": "下載 .txt"
+  },
+  "error_signed_out": {
+    "message": "先在這個瀏覽器登入 chatgpt.com，再試一次。"
+  },
+  "error_challenge": {
+    "message": "在開啟的 chatgpt.com 頁面完成驗證，再試一次。"
+  },
+  "error_incomplete": {
+    "message": "Session 不完整，重新整理 chatgpt.com 後再試。"
+  },
+  "error_failed": {
+    "message": "沒讀到 Session，再試一次。"
+  }
+}

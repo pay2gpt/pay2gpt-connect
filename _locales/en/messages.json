@@ -1,0 +1,38 @@
+{
+  "name": {
+    "message": "Pay2GPT — Connect ChatGPT"
+  },
+  "description": {
+    "message": "Connect your ChatGPT account to a Pay2GPT order in one click. The Session goes only to pay2gpt.com or your clipboard."
+  },
+  "get": {
+    "message": "Get Session"
+  },
+  "getting": {
+    "message": "Reading…"
+  },
+  "toBot": {
+    "message": "Copy and open @Pay2GPTBot"
+  },
+  "copy": {
+    "message": "Copy"
+  },
+  "copied": {
+    "message": "Copied"
+  },
+  "download": {
+    "message": "Download .txt"
+  },
+  "error_signed_out": {
+    "message": "Sign in to chatgpt.com in this browser, then try again."
+  },
+  "error_challenge": {
+    "message": "Finish the check on the chatgpt.com tab, then try again."
+  },
+  "error_incomplete": {
+    "message": "The Session was incomplete. Reload chatgpt.com and try again."
+  },
+  "error_failed": {
+    "message": "Could not read the Session. Try again."
+  }
+}

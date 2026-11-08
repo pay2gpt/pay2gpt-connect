@@ -1,0 +1,38 @@
+{
+  "name": {
+    "message": "Pay2GPT — подключить ChatGPT"
+  },
+  "description": {
+    "message": "Подключите ChatGPT к заказу Pay2GPT в один клик. Сессия уходит только на pay2gpt.com или в буфер обмена."
+  },
+  "get": {
+    "message": "Получить сессию"
+  },
+  "getting": {
+    "message": "Читаем…"
+  },
+  "toBot": {
+    "message": "Скопировать и открыть @Pay2GPTBot"
+  },
+  "copy": {
+    "message": "Скопировать"
+  },
+  "copied": {
+    "message": "Скопировано"
+  },
+  "download": {
+    "message": "Скачать .txt"
+  },
+  "error_signed_out": {
+    "message": "Войдите в chatgpt.com в этом браузере и повторите."
+  },
+  "error_challenge": {
+    "message": "Пройдите проверку на вкладке chatgpt.com и повторите."
+  },
+  "error_incomplete": {
+    "message": "Сессия неполная. Обновите chatgpt.com и повторите."
+  },
+  "error_failed": {
+    "message": "Не удалось прочитать сессию. Повторите."
+  }
+}

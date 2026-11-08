@@ -1,0 +1,38 @@
+{
+  "name": {
+    "message": "Pay2GPT — 一键连接 ChatGPT"
+  },
+  "description": {
+    "message": "一键把你的 ChatGPT 账号连接到 Pay2GPT 订单。Session 只交给 pay2gpt.com 或复制到剪贴板，不保存。"
+  },
+  "get": {
+    "message": "获取 Session"
+  },
+  "getting": {
+    "message": "正在读取…"
+  },
+  "toBot": {
+    "message": "复制并打开 @Pay2GPTBot"
+  },
+  "copy": {
+    "message": "复制"
+  },
+  "copied": {
+    "message": "已复制"
+  },
+  "download": {
+    "message": "下载 .txt"
+  },
+  "error_signed_out": {
+    "message": "先在这个浏览器登录 chatgpt.com，再试一次。"
+  },
+  "error_challenge": {
+    "message": "在打开的 chatgpt.com 页面完成验证，再试一次。"
+  },
+  "error_incomplete": {
+    "message": "Session 不完整，刷新 chatgpt.com 后再试。"
+  },
+  "error_failed": {
+    "message": "没读到 Session，再试一次。"
+  }
+}
