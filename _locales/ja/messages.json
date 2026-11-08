@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "ChatGPT アカウントを Pay2GPT の注文にワンクリックで連携。Session は pay2gpt.com かクリップボードにだけ渡ります。"
+  },
+  "site": {
+    "message": "https://pay2gpt.com/ja"
+  },
+  "s1": {
+    "message": "ChatGPT にログイン"
+  },
+  "s1d": {
+    "message": "このブラウザで chatgpt.com に"
+  },
+  "s2": {
+    "message": "Session を取得"
+  },
+  "s2d": {
+    "message": "ここで読み取るだけ。保存しません"
+  },
+  "s3": {
+    "message": "ボットに送る"
+  },
+  "s3d": {
+    "message": "または pay2gpt.com の注文ページで「連携」を押す"
+  },
+  "keyLabel": {
+    "message": "ボットに送る Session"
+  },
+  "show": {
+    "message": "表示"
+  },
+  "hide": {
+    "message": "隠す"
+  },
+  "get": {
+    "message": "Session を取得"
+  },
+  "getting": {
+    "message": "Session を読み取り中…"
+  },
+  "got": {
+    "message": "$EMAIL$ の Session を取得しました",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "@Pay2GPTBot に送る"
+  },
+  "download": {
+    "message": "ボット用に .txt を保存"
+  },
+  "copy": {
+    "message": "もう一度コピー"
+  },
+  "copied": {
+    "message": "コピーしました"
+  },
+  "copiedForBot": {
+    "message": "コピーしました。ボットに貼り付けてください"
+  },
+  "saved": {
+    "message": "保存しました。ファイルをボットに送ってください"
+  },
+  "orders": {
+    "message": "注文"
+  },
+  "support": {
+    "message": "サポート"
+  },
+  "note": {
+    "message": "Session は保存されず、pay2gpt.com かクリップボードにだけ渡ります。"
+  },
+  "error_signed_out": {
+    "message": "このブラウザで chatgpt.com にログインしてから、もう一度お試しください。"
+  },
+  "error_challenge": {
+    "message": "chatgpt.com のタブで確認を済ませてから、もう一度お試しください。"
+  },
+  "error_incomplete": {
+    "message": "Session が不完全です。chatgpt.com を再読み込みしてもう一度お試しください。"
+  },
+  "error_failed": {
+    "message": "Session を読み取れませんでした。もう一度お試しください。"
+  }
+}

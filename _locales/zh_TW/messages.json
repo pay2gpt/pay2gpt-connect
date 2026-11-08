@@ -6,7 +6,7 @@
     "message": "一鍵把你的 ChatGPT 帳號連接到 Pay2GPT 訂單。Session 只交給 pay2gpt.com 或複製到剪貼簿，不儲存。"
   },
   "site": {
-    "message": "https://pay2gpt.com"
+    "message": "https://pay2gpt.com/zh-TW"
   },
   "s1": {
     "message": "登入 ChatGPT"

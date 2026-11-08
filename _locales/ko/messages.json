@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "ChatGPT 계정을 Pay2GPT 주문에 한 번에 연결합니다. Session은 pay2gpt.com이나 클립보드로만 전달됩니다."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/ko"
+  },
+  "s1": {
+    "message": "ChatGPT 로그인"
+  },
+  "s1d": {
+    "message": "이 브라우저에서 chatgpt.com에"
+  },
+  "s2": {
+    "message": "Session 가져오기"
+  },
+  "s2d": {
+    "message": "여기서 읽기만 하고 저장하지 않습니다"
+  },
+  "s3": {
+    "message": "봇에 보내기"
+  },
+  "s3d": {
+    "message": "또는 pay2gpt.com 주문 페이지에서 '연결'을 누르세요"
+  },
+  "keyLabel": {
+    "message": "봇에 보낼 Session"
+  },
+  "show": {
+    "message": "보기"
+  },
+  "hide": {
+    "message": "숨기기"
+  },
+  "get": {
+    "message": "Session 가져오기"
+  },
+  "getting": {
+    "message": "Session 읽는 중…"
+  },
+  "got": {
+    "message": "$EMAIL$의 Session을 가져왔습니다",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "@Pay2GPTBot에 보내기"
+  },
+  "download": {
+    "message": "봇용 .txt 다운로드"
+  },
+  "copy": {
+    "message": "다시 복사"
+  },
+  "copied": {
+    "message": "복사했습니다"
+  },
+  "copiedForBot": {
+    "message": "복사했습니다. 봇에 붙여넣으세요"
+  },
+  "saved": {
+    "message": "저장했습니다. 파일을 봇에 보내세요"
+  },
+  "orders": {
+    "message": "내 주문"
+  },
+  "support": {
+    "message": "고객지원"
+  },
+  "note": {
+    "message": "Session은 저장되지 않으며 pay2gpt.com이나 클립보드로만 전달됩니다."
+  },
+  "error_signed_out": {
+    "message": "이 브라우저에서 chatgpt.com에 로그인한 뒤 다시 시도하세요."
+  },
+  "error_challenge": {
+    "message": "chatgpt.com 탭에서 확인을 마친 뒤 다시 시도하세요."
+  },
+  "error_incomplete": {
+    "message": "Session이 불완전합니다. chatgpt.com을 새로고침한 뒤 다시 시도하세요."
+  },
+  "error_failed": {
+    "message": "Session을 읽지 못했습니다. 다시 시도하세요."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "ChatGPT hesabınızı Pay2GPT siparişine tek tıkla bağlayın. Session yalnızca pay2gpt.com'a veya panonuza gider."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/tr"
+  },
+  "s1": {
+    "message": "ChatGPT'ye giriş yapın"
+  },
+  "s1d": {
+    "message": "Bu tarayıcıda, chatgpt.com'da"
+  },
+  "s2": {
+    "message": "Session'ı alın"
+  },
+  "s2d": {
+    "message": "Yalnızca burada okunur, kaydedilmez"
+  },
+  "s3": {
+    "message": "Bota gönderin"
+  },
+  "s3d": {
+    "message": "Ya da pay2gpt.com sipariş sayfanızda “Bağla”ya tıklayın"
+  },
+  "keyLabel": {
+    "message": "Bot için Session'ınız"
+  },
+  "show": {
+    "message": "Göster"
+  },
+  "hide": {
+    "message": "Gizle"
+  },
+  "get": {
+    "message": "Session'ı al"
+  },
+  "getting": {
+    "message": "Session okunuyor…"
+  },
+  "got": {
+    "message": "$EMAIL$ Session'ı hazır",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "@Pay2GPTBot'a gönder"
+  },
+  "download": {
+    "message": "Bot için .txt indir"
+  },
+  "copy": {
+    "message": "Tekrar kopyala"
+  },
+  "copied": {
+    "message": "Kopyalandı"
+  },
+  "copiedForBot": {
+    "message": "Kopyalandı. Bota yapıştırın"
+  },
+  "saved": {
+    "message": "Kaydedildi. Dosyayı bota gönderin"
+  },
+  "orders": {
+    "message": "Siparişlerim"
+  },
+  "support": {
+    "message": "Destek"
+  },
+  "note": {
+    "message": "Session kaydedilmez; yalnızca pay2gpt.com'a veya panonuza gider."
+  },
+  "error_signed_out": {
+    "message": "Bu tarayıcıda chatgpt.com'a giriş yapıp tekrar deneyin."
+  },
+  "error_challenge": {
+    "message": "chatgpt.com sekmesindeki doğrulamayı tamamlayıp tekrar deneyin."
+  },
+  "error_incomplete": {
+    "message": "Session eksikti. chatgpt.com'u yenileyip tekrar deneyin."
+  },
+  "error_failed": {
+    "message": "Session okunamadı. Tekrar deneyin."
+  }
+}

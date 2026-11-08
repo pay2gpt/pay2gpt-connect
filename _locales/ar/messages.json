@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "اربط حساب ChatGPT بطلب Pay2GPT بنقرة واحدة. تذهب الجلسة إلى pay2gpt.com أو الحافظة فقط."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/ar"
+  },
+  "s1": {
+    "message": "سجّل الدخول إلى ChatGPT"
+  },
+  "s1d": {
+    "message": "في هذا المتصفح، على chatgpt.com"
+  },
+  "s2": {
+    "message": "احصل على الجلسة"
+  },
+  "s2d": {
+    "message": "تُقرأ هنا فقط ولا يُحفظ شيء"
+  },
+  "s3": {
+    "message": "أرسلها إلى البوت"
+  },
+  "s3d": {
+    "message": "أو انقر «اربط» في صفحة طلبك على pay2gpt.com"
+  },
+  "keyLabel": {
+    "message": "جلستك للبوت"
+  },
+  "show": {
+    "message": "إظهار"
+  },
+  "hide": {
+    "message": "إخفاء"
+  },
+  "get": {
+    "message": "احصل على الجلسة"
+  },
+  "getting": {
+    "message": "جارٍ قراءة الجلسة…"
+  },
+  "got": {
+    "message": "جلسة $EMAIL$ جاهزة",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "أرسل إلى ‎@Pay2GPTBot"
+  },
+  "download": {
+    "message": "نزّل ملف ‎.txt للبوت"
+  },
+  "copy": {
+    "message": "انسخ مرة أخرى"
+  },
+  "copied": {
+    "message": "تم النسخ"
+  },
+  "copiedForBot": {
+    "message": "تم النسخ. الصقها في البوت"
+  },
+  "saved": {
+    "message": "تم الحفظ. أرسل الملف إلى البوت"
+  },
+  "orders": {
+    "message": "طلباتي"
+  },
+  "support": {
+    "message": "الدعم"
+  },
+  "note": {
+    "message": "لا تُحفظ الجلسة وتذهب إلى pay2gpt.com أو حافظتك فقط."
+  },
+  "error_signed_out": {
+    "message": "سجّل الدخول إلى chatgpt.com في هذا المتصفح ثم حاول مجددًا."
+  },
+  "error_challenge": {
+    "message": "أكمل التحقق في تبويب chatgpt.com ثم حاول مجددًا."
+  },
+  "error_incomplete": {
+    "message": "الجلسة غير مكتملة. أعد تحميل chatgpt.com وحاول مجددًا."
+  },
+  "error_failed": {
+    "message": "تعذّرت قراءة الجلسة. حاول مجددًا."
+  }
+}

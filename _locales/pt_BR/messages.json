@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "Conecte sua conta do ChatGPT a um pedido da Pay2GPT com um clique. A Session vai só para pay2gpt.com ou a área de transferência."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/pt-BR"
+  },
+  "s1": {
+    "message": "Entre no ChatGPT"
+  },
+  "s1d": {
+    "message": "Neste navegador, em chatgpt.com"
+  },
+  "s2": {
+    "message": "Pegue a Session"
+  },
+  "s2d": {
+    "message": "Lida aqui; nada é salvo"
+  },
+  "s3": {
+    "message": "Envie ao bot"
+  },
+  "s3d": {
+    "message": "Ou clique em “Conectar” na página do pedido em pay2gpt.com"
+  },
+  "keyLabel": {
+    "message": "Sua Session para o bot"
+  },
+  "show": {
+    "message": "Mostrar"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "get": {
+    "message": "Pegar Session"
+  },
+  "getting": {
+    "message": "Lendo a Session…"
+  },
+  "got": {
+    "message": "Session de $EMAIL$ pronta",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "Enviar ao @Pay2GPTBot"
+  },
+  "download": {
+    "message": "Baixar .txt para o bot"
+  },
+  "copy": {
+    "message": "Copiar de novo"
+  },
+  "copied": {
+    "message": "Copiado"
+  },
+  "copiedForBot": {
+    "message": "Copiado. Cole no bot"
+  },
+  "saved": {
+    "message": "Salvo. Envie o arquivo ao bot"
+  },
+  "orders": {
+    "message": "Meus pedidos"
+  },
+  "support": {
+    "message": "Suporte"
+  },
+  "note": {
+    "message": "A Session não é salva e vai só para pay2gpt.com ou sua área de transferência."
+  },
+  "error_signed_out": {
+    "message": "Entre no chatgpt.com neste navegador e tente de novo."
+  },
+  "error_challenge": {
+    "message": "Conclua a verificação na aba do chatgpt.com e tente de novo."
+  },
+  "error_incomplete": {
+    "message": "A Session veio incompleta. Recarregue o chatgpt.com e tente de novo."
+  },
+  "error_failed": {
+    "message": "Não foi possível ler a Session. Tente de novo."
+  }
+}

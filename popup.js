@@ -14,6 +14,7 @@ const ICONS = {
 };
 
 document.documentElement.lang = chrome.i18n.getUILanguage();
+document.documentElement.dir = chrome.i18n.getMessage("@@bidi_dir");
 document.querySelectorAll("[data-i18n]").forEach((node) => { node.textContent = t(node.dataset.i18n); });
 document.querySelectorAll("[data-site]").forEach((link) => { link.href = SITE; });
 document.querySelectorAll("[data-host]").forEach((node) => { node.textContent = new URL(SITE).host; });

@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "Collega il tuo account ChatGPT a un ordine Pay2GPT con un clic. La Session va solo a pay2gpt.com o negli appunti."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/it"
+  },
+  "s1": {
+    "message": "Accedi a ChatGPT"
+  },
+  "s1d": {
+    "message": "In questo browser, su chatgpt.com"
+  },
+  "s2": {
+    "message": "Ottieni la Session"
+  },
+  "s2d": {
+    "message": "Letta qui, non viene salvato nulla"
+  },
+  "s3": {
+    "message": "Inviala al bot"
+  },
+  "s3d": {
+    "message": "Oppure clicca «Collega» nella pagina dell’ordine su pay2gpt.com"
+  },
+  "keyLabel": {
+    "message": "La tua Session per il bot"
+  },
+  "show": {
+    "message": "Mostra"
+  },
+  "hide": {
+    "message": "Nascondi"
+  },
+  "get": {
+    "message": "Ottieni Session"
+  },
+  "getting": {
+    "message": "Lettura della Session…"
+  },
+  "got": {
+    "message": "Session di $EMAIL$ pronta",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "Invia a @Pay2GPTBot"
+  },
+  "download": {
+    "message": "Scarica il .txt per il bot"
+  },
+  "copy": {
+    "message": "Copia di nuovo"
+  },
+  "copied": {
+    "message": "Copiato"
+  },
+  "copiedForBot": {
+    "message": "Copiato. Incollala nel bot"
+  },
+  "saved": {
+    "message": "Salvato. Invia il file al bot"
+  },
+  "orders": {
+    "message": "I miei ordini"
+  },
+  "support": {
+    "message": "Assistenza"
+  },
+  "note": {
+    "message": "La Session non viene salvata e va solo a pay2gpt.com o negli appunti."
+  },
+  "error_signed_out": {
+    "message": "Accedi a chatgpt.com in questo browser, poi riprova."
+  },
+  "error_challenge": {
+    "message": "Completa la verifica nella scheda chatgpt.com, poi riprova."
+  },
+  "error_incomplete": {
+    "message": "La Session era incompleta. Ricarica chatgpt.com e riprova."
+  },
+  "error_failed": {
+    "message": "Impossibile leggere la Session. Riprova."
+  }
+}

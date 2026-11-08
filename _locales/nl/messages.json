@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "Koppel je ChatGPT-account met één klik aan een Pay2GPT-bestelling. De Session gaat alleen naar pay2gpt.com of je klembord."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/nl"
+  },
+  "s1": {
+    "message": "Log in bij ChatGPT"
+  },
+  "s1d": {
+    "message": "In deze browser, op chatgpt.com"
+  },
+  "s2": {
+    "message": "Haal de Session op"
+  },
+  "s2d": {
+    "message": "Alleen hier gelezen, niets opgeslagen"
+  },
+  "s3": {
+    "message": "Stuur naar de bot"
+  },
+  "s3d": {
+    "message": "Of klik op ‘Koppelen’ op je bestelpagina op pay2gpt.com"
+  },
+  "keyLabel": {
+    "message": "Je Session voor de bot"
+  },
+  "show": {
+    "message": "Tonen"
+  },
+  "hide": {
+    "message": "Verbergen"
+  },
+  "get": {
+    "message": "Session ophalen"
+  },
+  "getting": {
+    "message": "Session lezen…"
+  },
+  "got": {
+    "message": "Session van $EMAIL$ klaar",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "Stuur naar @Pay2GPTBot"
+  },
+  "download": {
+    "message": ".txt voor de bot opslaan"
+  },
+  "copy": {
+    "message": "Opnieuw kopiëren"
+  },
+  "copied": {
+    "message": "Gekopieerd"
+  },
+  "copiedForBot": {
+    "message": "Gekopieerd. Plak hem in de bot"
+  },
+  "saved": {
+    "message": "Opgeslagen. Stuur het bestand naar de bot"
+  },
+  "orders": {
+    "message": "Mijn bestellingen"
+  },
+  "support": {
+    "message": "Support"
+  },
+  "note": {
+    "message": "De Session wordt niet opgeslagen en gaat alleen naar pay2gpt.com of je klembord."
+  },
+  "error_signed_out": {
+    "message": "Log in deze browser in op chatgpt.com en probeer het opnieuw."
+  },
+  "error_challenge": {
+    "message": "Rond de controle af op het chatgpt.com-tabblad en probeer het opnieuw."
+  },
+  "error_incomplete": {
+    "message": "De Session was onvolledig. Herlaad chatgpt.com en probeer het opnieuw."
+  },
+  "error_failed": {
+    "message": "Session niet gelezen. Probeer het opnieuw."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "Verbinde dein ChatGPT-Konto per Klick mit einer Pay2GPT-Bestellung. Die Session geht nur an pay2gpt.com oder die Zwischenablage."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/de"
+  },
+  "s1": {
+    "message": "Bei ChatGPT anmelden"
+  },
+  "s1d": {
+    "message": "In diesem Browser auf chatgpt.com"
+  },
+  "s2": {
+    "message": "Session holen"
+  },
+  "s2d": {
+    "message": "Nur hier gelesen, nichts gespeichert"
+  },
+  "s3": {
+    "message": "An den Bot senden"
+  },
+  "s3d": {
+    "message": "Oder auf der Bestellseite von pay2gpt.com „Verbinden“ klicken"
+  },
+  "keyLabel": {
+    "message": "Deine Session für den Bot"
+  },
+  "show": {
+    "message": "Anzeigen"
+  },
+  "hide": {
+    "message": "Ausblenden"
+  },
+  "get": {
+    "message": "Session holen"
+  },
+  "getting": {
+    "message": "Session wird gelesen…"
+  },
+  "got": {
+    "message": "Session von $EMAIL$ bereit",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "An @Pay2GPTBot senden"
+  },
+  "download": {
+    "message": ".txt für den Bot speichern"
+  },
+  "copy": {
+    "message": "Erneut kopieren"
+  },
+  "copied": {
+    "message": "Kopiert"
+  },
+  "copiedForBot": {
+    "message": "Kopiert. In den Bot einfügen"
+  },
+  "saved": {
+    "message": "Gespeichert. Datei an den Bot senden"
+  },
+  "orders": {
+    "message": "Meine Bestellungen"
+  },
+  "support": {
+    "message": "Support"
+  },
+  "note": {
+    "message": "Die Session wird nicht gespeichert und geht nur an pay2gpt.com oder deine Zwischenablage."
+  },
+  "error_signed_out": {
+    "message": "Melde dich in diesem Browser bei chatgpt.com an und versuche es erneut."
+  },
+  "error_challenge": {
+    "message": "Schließe die Prüfung im chatgpt.com-Tab ab und versuche es erneut."
+  },
+  "error_incomplete": {
+    "message": "Die Session war unvollständig. Lade chatgpt.com neu und versuche es erneut."
+  },
+  "error_failed": {
+    "message": "Session nicht lesbar. Versuche es erneut."
+  }
+}

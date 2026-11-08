@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "Conecta tu cuenta de ChatGPT a un pedido de Pay2GPT con un clic. La Session solo va a pay2gpt.com o a tu portapapeles."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/es"
+  },
+  "s1": {
+    "message": "Inicia sesión en ChatGPT"
+  },
+  "s1d": {
+    "message": "En este navegador, en chatgpt.com"
+  },
+  "s2": {
+    "message": "Obtén la Session"
+  },
+  "s2d": {
+    "message": "Se lee aquí; no se guarda nada"
+  },
+  "s3": {
+    "message": "Envíala al bot"
+  },
+  "s3d": {
+    "message": "O pulsa «Conectar» en tu página de pedido de pay2gpt.com"
+  },
+  "keyLabel": {
+    "message": "Tu Session para el bot"
+  },
+  "show": {
+    "message": "Mostrar"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "get": {
+    "message": "Obtener Session"
+  },
+  "getting": {
+    "message": "Leyendo la Session…"
+  },
+  "got": {
+    "message": "Session de $EMAIL$ lista",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "Enviar a @Pay2GPTBot"
+  },
+  "download": {
+    "message": "Descargar .txt para el bot"
+  },
+  "copy": {
+    "message": "Copiar de nuevo"
+  },
+  "copied": {
+    "message": "Copiado"
+  },
+  "copiedForBot": {
+    "message": "Copiado. Pégalo en el bot"
+  },
+  "saved": {
+    "message": "Guardado. Envía el archivo al bot"
+  },
+  "orders": {
+    "message": "Mis pedidos"
+  },
+  "support": {
+    "message": "Soporte"
+  },
+  "note": {
+    "message": "La Session no se guarda y solo va a pay2gpt.com o a tu portapapeles."
+  },
+  "error_signed_out": {
+    "message": "Inicia sesión en chatgpt.com en este navegador y vuelve a intentarlo."
+  },
+  "error_challenge": {
+    "message": "Completa la verificación en la pestaña de chatgpt.com y vuelve a intentarlo."
+  },
+  "error_incomplete": {
+    "message": "La Session estaba incompleta. Recarga chatgpt.com y vuelve a intentarlo."
+  },
+  "error_failed": {
+    "message": "No se pudo leer la Session. Inténtalo de nuevo."
+  }
+}

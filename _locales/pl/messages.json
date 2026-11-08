@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "Połącz konto ChatGPT z zamówieniem Pay2GPT jednym kliknięciem. Session trafia tylko na pay2gpt.com lub do schowka."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/pl"
+  },
+  "s1": {
+    "message": "Zaloguj się do ChatGPT"
+  },
+  "s1d": {
+    "message": "W tej przeglądarce, na chatgpt.com"
+  },
+  "s2": {
+    "message": "Pobierz Session"
+  },
+  "s2d": {
+    "message": "Odczyt tylko tutaj, nic nie jest zapisywane"
+  },
+  "s3": {
+    "message": "Wyślij do bota"
+  },
+  "s3d": {
+    "message": "Albo kliknij „Połącz” na stronie zamówienia pay2gpt.com"
+  },
+  "keyLabel": {
+    "message": "Twoja Session dla bota"
+  },
+  "show": {
+    "message": "Pokaż"
+  },
+  "hide": {
+    "message": "Ukryj"
+  },
+  "get": {
+    "message": "Pobierz Session"
+  },
+  "getting": {
+    "message": "Odczytywanie Session…"
+  },
+  "got": {
+    "message": "Session $EMAIL$ gotowa",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "Wyślij do @Pay2GPTBot"
+  },
+  "download": {
+    "message": "Pobierz .txt dla bota"
+  },
+  "copy": {
+    "message": "Kopiuj ponownie"
+  },
+  "copied": {
+    "message": "Skopiowano"
+  },
+  "copiedForBot": {
+    "message": "Skopiowano. Wklej w bocie"
+  },
+  "saved": {
+    "message": "Zapisano. Wyślij plik do bota"
+  },
+  "orders": {
+    "message": "Moje zamówienia"
+  },
+  "support": {
+    "message": "Pomoc"
+  },
+  "note": {
+    "message": "Session nie jest zapisywana i trafia tylko na pay2gpt.com lub do schowka."
+  },
+  "error_signed_out": {
+    "message": "Zaloguj się na chatgpt.com w tej przeglądarce i spróbuj ponownie."
+  },
+  "error_challenge": {
+    "message": "Dokończ weryfikację na karcie chatgpt.com i spróbuj ponownie."
+  },
+  "error_incomplete": {
+    "message": "Session była niepełna. Odśwież chatgpt.com i spróbuj ponownie."
+  },
+  "error_failed": {
+    "message": "Nie udało się odczytać Session. Spróbuj ponownie."
+  }
+}

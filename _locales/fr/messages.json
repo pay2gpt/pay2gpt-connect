@@ -1,0 +1,91 @@
+{
+  "name": {
+    "message": "Pay2GPT Connect"
+  },
+  "description": {
+    "message": "Connectez votre compte ChatGPT à une commande Pay2GPT en un clic. La Session ne va qu’à pay2gpt.com ou au presse-papiers."
+  },
+  "site": {
+    "message": "https://pay2gpt.com/fr"
+  },
+  "s1": {
+    "message": "Connectez-vous à ChatGPT"
+  },
+  "s1d": {
+    "message": "Dans ce navigateur, sur chatgpt.com"
+  },
+  "s2": {
+    "message": "Récupérez la Session"
+  },
+  "s2d": {
+    "message": "Lue ici, rien n’est enregistré"
+  },
+  "s3": {
+    "message": "Envoyez-la au bot"
+  },
+  "s3d": {
+    "message": "Ou cliquez sur « Connecter » sur votre page de commande pay2gpt.com"
+  },
+  "keyLabel": {
+    "message": "Votre Session pour le bot"
+  },
+  "show": {
+    "message": "Afficher"
+  },
+  "hide": {
+    "message": "Masquer"
+  },
+  "get": {
+    "message": "Récupérer la Session"
+  },
+  "getting": {
+    "message": "Lecture de la Session…"
+  },
+  "got": {
+    "message": "Session de $EMAIL$ prête",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "toBot": {
+    "message": "Envoyer à @Pay2GPTBot"
+  },
+  "download": {
+    "message": "Télécharger le .txt pour le bot"
+  },
+  "copy": {
+    "message": "Copier à nouveau"
+  },
+  "copied": {
+    "message": "Copié"
+  },
+  "copiedForBot": {
+    "message": "Copié. Collez-la dans le bot"
+  },
+  "saved": {
+    "message": "Enregistré. Envoyez le fichier au bot"
+  },
+  "orders": {
+    "message": "Mes commandes"
+  },
+  "support": {
+    "message": "Support"
+  },
+  "note": {
+    "message": "La Session n’est pas enregistrée et ne va qu’à pay2gpt.com ou à votre presse-papiers."
+  },
+  "error_signed_out": {
+    "message": "Connectez-vous à chatgpt.com dans ce navigateur, puis réessayez."
+  },
+  "error_challenge": {
+    "message": "Terminez la vérification dans l’onglet chatgpt.com, puis réessayez."
+  },
+  "error_incomplete": {
+    "message": "La Session était incomplète. Rechargez chatgpt.com et réessayez."
+  },
+  "error_failed": {
+    "message": "Impossible de lire la Session. Réessayez."
+  }
+}
