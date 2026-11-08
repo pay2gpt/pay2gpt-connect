@@ -5,23 +5,76 @@
   "description": {
     "message": "一键把你的 ChatGPT 账号连接到 Pay2GPT 订单。Session 只交给 pay2gpt.com 或复制到剪贴板，不保存。"
   },
+  "site": {
+    "message": "https://pay2gpt.com"
+  },
+  "s1": {
+    "message": "登录 ChatGPT"
+  },
+  "s1d": {
+    "message": "在这个浏览器打开 chatgpt.com 登录"
+  },
+  "s2": {
+    "message": "获取 Session"
+  },
+  "s2d": {
+    "message": "只在这里读取，不保存"
+  },
+  "s3": {
+    "message": "发给机器人"
+  },
+  "s3d": {
+    "message": "或在 pay2gpt.com 订单页点「一键连接」"
+  },
+  "keyLabel": {
+    "message": "你的 Session"
+  },
+  "show": {
+    "message": "显示"
+  },
+  "hide": {
+    "message": "隐藏"
+  },
   "get": {
     "message": "获取 Session"
   },
   "getting": {
-    "message": "正在读取…"
+    "message": "正在读取 Session…"
+  },
+  "got": {
+    "message": "已读取 $EMAIL$ 的 Session",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
   },
   "toBot": {
-    "message": "复制并打开 @Pay2GPTBot"
+    "message": "发到 @Pay2GPTBot"
+  },
+  "download": {
+    "message": "下载 .txt 发给机器人"
   },
   "copy": {
-    "message": "复制"
+    "message": "再复制一次"
   },
   "copied": {
     "message": "已复制"
   },
-  "download": {
-    "message": "下载 .txt"
+  "copiedForBot": {
+    "message": "已复制，粘贴到机器人里"
+  },
+  "saved": {
+    "message": "已保存，把文件发给机器人"
+  },
+  "orders": {
+    "message": "我的订单"
+  },
+  "support": {
+    "message": "客服"
+  },
+  "note": {
+    "message": "Session 不保存，只交给 pay2gpt.com 或你的剪贴板。"
   },
   "error_signed_out": {
     "message": "先在这个浏览器登录 chatgpt.com，再试一次。"

@@ -5,23 +5,76 @@
   "description": {
     "message": "Connect your ChatGPT account to a Pay2GPT order in one click. The Session goes only to pay2gpt.com or your clipboard."
   },
+  "site": {
+    "message": "https://pay2gpt.com"
+  },
+  "s1": {
+    "message": "Sign in to ChatGPT"
+  },
+  "s1d": {
+    "message": "In this browser, at chatgpt.com"
+  },
+  "s2": {
+    "message": "Get the Session"
+  },
+  "s2d": {
+    "message": "Read here; nothing is stored"
+  },
+  "s3": {
+    "message": "Send it to the bot"
+  },
+  "s3d": {
+    "message": "Or click \"Connect\" on your pay2gpt.com order page"
+  },
+  "keyLabel": {
+    "message": "Your Session for the bot"
+  },
+  "show": {
+    "message": "Show"
+  },
+  "hide": {
+    "message": "Hide"
+  },
   "get": {
     "message": "Get Session"
   },
   "getting": {
-    "message": "Reading…"
+    "message": "Reading the Session…"
+  },
+  "got": {
+    "message": "Session of $EMAIL$ ready",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
   },
   "toBot": {
-    "message": "Copy and open @Pay2GPTBot"
+    "message": "Send to @Pay2GPTBot"
+  },
+  "download": {
+    "message": "Download .txt for the bot"
   },
   "copy": {
-    "message": "Copy"
+    "message": "Copy again"
   },
   "copied": {
     "message": "Copied"
   },
-  "download": {
-    "message": "Download .txt"
+  "copiedForBot": {
+    "message": "Copied. Paste it into the bot"
+  },
+  "saved": {
+    "message": "Saved. Send the file to the bot"
+  },
+  "orders": {
+    "message": "My orders"
+  },
+  "support": {
+    "message": "Support"
+  },
+  "note": {
+    "message": "The Session is not stored and goes only to pay2gpt.com or your clipboard."
   },
   "error_signed_out": {
     "message": "Sign in to chatgpt.com in this browser, then try again."

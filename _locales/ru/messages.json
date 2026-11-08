@@ -5,23 +5,76 @@
   "description": {
     "message": "Подключите ChatGPT к заказу Pay2GPT в один клик. Сессия уходит только на pay2gpt.com или в буфер обмена."
   },
+  "site": {
+    "message": "https://ru.pay2gpt.com"
+  },
+  "s1": {
+    "message": "Войдите в ChatGPT"
+  },
+  "s1d": {
+    "message": "В этом браузере, на chatgpt.com"
+  },
+  "s2": {
+    "message": "Получите сессию"
+  },
+  "s2d": {
+    "message": "Читаем здесь, ничего не храним"
+  },
+  "s3": {
+    "message": "Отправьте боту"
+  },
+  "s3d": {
+    "message": "Или нажмите «Подключить» на странице заказа"
+  },
+  "keyLabel": {
+    "message": "Ваша сессия для бота"
+  },
+  "show": {
+    "message": "Показать"
+  },
+  "hide": {
+    "message": "Скрыть"
+  },
   "get": {
     "message": "Получить сессию"
   },
   "getting": {
-    "message": "Читаем…"
+    "message": "Читаем сессию…"
+  },
+  "got": {
+    "message": "Сессия $EMAIL$ готова",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
   },
   "toBot": {
-    "message": "Скопировать и открыть @Pay2GPTBot"
+    "message": "Отправить в @Pay2GPTBot"
+  },
+  "download": {
+    "message": "Скачать .txt для бота"
   },
   "copy": {
-    "message": "Скопировать"
+    "message": "Скопировать ещё раз"
   },
   "copied": {
     "message": "Скопировано"
   },
-  "download": {
-    "message": "Скачать .txt"
+  "copiedForBot": {
+    "message": "Скопировано. Вставьте в бота"
+  },
+  "saved": {
+    "message": "Сохранено. Отправьте файл боту"
+  },
+  "orders": {
+    "message": "Мои заказы"
+  },
+  "support": {
+    "message": "Поддержка"
+  },
+  "note": {
+    "message": "Сессия не хранится и уходит только на pay2gpt.com или в буфер обмена."
   },
   "error_signed_out": {
     "message": "Войдите в chatgpt.com в этом браузере и повторите."

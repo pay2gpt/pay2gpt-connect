@@ -5,7 +5,7 @@
 set -eu
 cd "$(dirname "$0")/.."
 rm -rf dist && mkdir -p dist/store
-cp -R manifest.json background.js content.js popup.html popup.css popup.js icons _locales dist/store/
+cp -R manifest.json background.js content.js popup.html popup.css popup.js icons fonts _locales dist/store/
 version=$(python3 -c 'import json; print(json.load(open("manifest.json"))["version"])')
 (cd dist/store && zip -qr "../pay2gpt-connect-$version.zip" .)
 

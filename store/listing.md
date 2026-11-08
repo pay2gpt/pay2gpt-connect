@@ -10,7 +10,7 @@ Upload `dist/pay2gpt-connect-<version>.zip` from `scripts/build.sh` (never `dist
 - **Homepage**: https://pay2gpt.com/
 - **Support**: https://pay2gpt.com/help
 - **Privacy policy**: https://github.com/pay2gpt/pay2gpt-connect/blob/main/PRIVACY.md
-- **Screenshots** (1280×800): `store/1-order-page.png` … `store/5-popup.png`
+- **Screenshots** (1280×800): `store/0-hero-en.png` first (`0-hero-zh.png` for the Chinese listing), then `store/1-order-page.png` … `store/5-popup.png`
 - **Icon**: `icons/icon128.png`
 
 ### Description (English)
