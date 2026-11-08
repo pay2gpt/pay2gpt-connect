@@ -27,7 +27,7 @@ background and closed afterwards), so your own browser cookies are used and noth
 | `https://chatgpt.com/*` | Read `/api/auth/session` in a chatgpt.com tab |
 | `scripting` | Run that one request inside the chatgpt.com tab |
 | `clipboardWrite` | Copy the Session for @Pay2GPTBot |
-| content script on `pay2gpt.com` | Offer the one-click button and hand the Session to the order page |
+| `https://pay2gpt.com/*`, `https://ru.pay2gpt.com/*` and a content script there | Offer the one-click button and hand the Session to the order page; on install, reach order pages already open so they need no reload |
 
 ## Develop
 

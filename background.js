@@ -5,6 +5,16 @@
 const CHATGPT = "https://chatgpt.com/";
 const LOAD_TIMEOUT_MS = 20000;
 
+// Content scripts reach only pages loaded after install, so an order page open while the extension is installed or
+// updated gets content.js now; its one-click button then shows without a reload. After an update the copy already in
+// the page has lost its runtime and stays silent (content.js). A browser update leaves that copy working: no second one.
+chrome.runtime.onInstalled.addListener(async ({ reason }) => {
+  if (reason !== "install" && reason !== "update") return;
+  const matches = chrome.runtime.getManifest().content_scripts[0].matches;
+  const tabs = await chrome.tabs.query({ url: matches });
+  await Promise.all(tabs.map((tab) => chrome.scripting.executeScript({ target: { tabId: tab.id }, files: ["content.js"] }).catch(() => {})));
+});
+
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message?.type !== "session:get") return false;
   // Only our own popup and the pay2gpt.com pages content.js runs on may ask.

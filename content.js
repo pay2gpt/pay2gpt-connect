@@ -12,6 +12,8 @@
     const message = event.data;
     if (message?.source !== "pay2gpt-page" || message.type !== "session:get") return;
 
+    // A copy left behind by an earlier version of the extension has no runtime any more: the current copy answers.
+    if (!chrome.runtime?.id) return;
     chrome.runtime.sendMessage({ type: "session:get" }, (answer) => {
       const reply = chrome.runtime.lastError ? { ok: false, error: "failed" } : answer;
       window.postMessage({ source: "pay2gpt-connect", type: "session:result", id: message.id, ...reply }, location.origin);

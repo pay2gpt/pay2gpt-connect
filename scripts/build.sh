@@ -15,6 +15,7 @@ import json
 path = "dist/dev/manifest.json"
 manifest = json.load(open(path))
 manifest["content_scripts"][0]["matches"] += ["http://localhost/*", "http://127.0.0.1/*"]
+manifest["host_permissions"] += ["http://localhost/*", "http://127.0.0.1/*"]
 manifest["name"] = "Pay2GPT Connect (dev)"
 json.dump(manifest, open(path, "w"), ensure_ascii=False, indent=2)
 PY

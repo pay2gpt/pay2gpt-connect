@@ -7,16 +7,28 @@
   "default_locale": "en",
   "homepage_url": "https://pay2gpt.com/",
   "minimum_chrome_version": "116",
-  "permissions": ["scripting", "clipboardWrite"],
-  "host_permissions": ["https://chatgpt.com/*"],
+  "permissions": [
+    "scripting",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "https://chatgpt.com/*",
+    "https://pay2gpt.com/*",
+    "https://ru.pay2gpt.com/*"
+  ],
   "background": {
     "service_worker": "background.js",
     "type": "module"
   },
   "content_scripts": [
     {
-      "matches": ["https://pay2gpt.com/*", "https://ru.pay2gpt.com/*"],
-      "js": ["content.js"],
+      "matches": [
+        "https://pay2gpt.com/*",
+        "https://ru.pay2gpt.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
       "run_at": "document_start"
     }
   ],

@@ -53,7 +53,7 @@ signed-in account to the pay2gpt.com order page (or the clipboard, for the Pay2G
 | `host_permissions: https://chatgpt.com/*` | Read `https://chatgpt.com/api/auth/session` for the signed-in account, only when the user clicks Connect or Get Session. |
 | `scripting` | Run that single same-origin request inside a chatgpt.com tab, so the browser's own cookies are used and the site's bot check passes. |
 | `clipboardWrite` | Copy the Session when the user chooses to send it to the Pay2GPT Telegram bot. |
-| Content script on `pay2gpt.com`, `ru.pay2gpt.com` | Show the one-click button on the user's order page and hand the Session to that page. |
+| `host_permissions: https://pay2gpt.com/*, https://ru.pay2gpt.com/*` and a content script there | Show the one-click button on the user's order page and hand the Session to that page; at install, add it to order pages already open so they need no reload. |
 
 **Remote code**: No, all code is in the package.
 
